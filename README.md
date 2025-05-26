@@ -85,8 +85,6 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 ## 👨‍💻 Author Info
 
 *   Odafe Umunu - [https://github.com/odafeumunu](https://github.com/odafeumunu)
-    *   Twitter: [https://twitter.com/(your_twitter_username)](https://twitter.com/(your_twitter_username))
-    *   LinkedIn: [https://www.linkedin.com/in/(your_linkedin_username)](https://www.linkedin.com/in/(your_linkedin_username))
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/odafeumunu/Lifestyle_template)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/odafeumunu/Lifestyle_template)
